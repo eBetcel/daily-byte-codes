@@ -13,6 +13,9 @@ def valid_palindrome(word):
     Example:
         >>> valid_palindrome("level")
         True
+
+        >>> valid_palindrome("cat")
+        True
     """
 
     # Create pattern
